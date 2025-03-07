@@ -1,2 +1,2 @@
-# intro_bootsrap
+# intro_bootstrap
 bootstrap ngani
